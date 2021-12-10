@@ -1,5 +1,5 @@
 # OpenAIGym-SAC
-Partial fullfilment for EE5271 at UMN (Project work)
+Course Project at UMN (EE5271)
 
 ### Code files
 * **ReplayBuffer.py:** Implements sample buffer for off policy learning
