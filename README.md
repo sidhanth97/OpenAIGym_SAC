@@ -1,5 +1,5 @@
 # OpenAIGym-SAC
-Course Project at UMN (EE5271)
+Course Project at UMN (EE5271 - Robot Vision)
 
 ### Code files
 * **ReplayBuffer.py:** Implements sample buffer for off policy learning
